@@ -1,0 +1,8 @@
+certifi==2019.6.16
+chardet==3.0.4
+idna==2.8
+requests==2.22.0
+urllib3==1.25.3
+fastai==1.0.53.post2
+python-telegram-bot==12.0.0b1
+
